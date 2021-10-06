@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+'datasets/' filter=lfs diff=lfs merge=lfs -text
+'results/' filter=lfs diff=lfs merge=lfs -text
