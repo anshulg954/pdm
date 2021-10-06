@@ -25,7 +25,7 @@
 <!-- Status -->
 
 <h4 align="center"> 
-	🚧  Code 🚀 Time and Frequency Domain Feature Extraction from IMS Dataset. 🚧
+	🚧 🚀 Data Engineering and Time + Frequency Domain Feature Extraction from IMS Dataset. 🚧
 </h4> 
 
 <hr>
@@ -36,7 +36,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#checkered_flagx-contributing">Contributing</a> &#xa0; | &#xa0;
+  <a href="#man_office_worker-contributing">Contributing</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
 </p>
@@ -112,7 +112,7 @@ $ python main.py
 
 # The server will initialize in the <http://localhost:3000>
 ```
-## :checkered_flagx: Contributing ##
+## 👨‍💼: Contributing ##
 For major changes, please open an issue first to discuss what you would like to change.
 
 ## :memo: License ##
