@@ -15,7 +15,7 @@
 
   <img alt="License" src="https://img.shields.io/github/license/anshulg954/pdm?color=56BEB8">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/anshulg954/pdm?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/anshulg954/pdm?color=56BEB8" /> 
 
   <img alt="Github forks" src="https://img.shields.io/github/forks/anshulg954/pdm?color=56BEB8" />
 
@@ -38,7 +38,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#man_office_worker-contributing">Contributing</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/anshulg954" target="_blank">Author</a>
 </p>
 
 <br>
@@ -102,7 +102,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{anshulg954}}/pdm
+$ git clone https://github.com/anshulg954/pdm
 
 # Access
 $ cd pdm
