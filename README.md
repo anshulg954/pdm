@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Code" />
+  <img src="./outputs/m.jpeg" alt="Code" />
   &#xa0;
 
 </div>
@@ -7,13 +7,13 @@
 <h1 align="center">AI Based Predictive Maintaenance</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{anshulg954}}/code?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{anshulg954}}/pdm?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{anshulg954}}/code?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{anshulg954}}/pdm?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{anshulg954}}/code?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{anshulg954}}/pdm?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{anshulg954}}/code?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/{{anshulg954}}/pdm?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/code?color=56BEB8" /> -->
 
