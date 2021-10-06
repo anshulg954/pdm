@@ -109,8 +109,6 @@ $ cd pdm
 
 # Run the project
 $ python main.py 
-
-# The server will initialize in the <http://localhost:3000>
 ```
 # :man_office_worker: Contributing ##
 For major changes, please open an issue first to discuss what you would like to change.
